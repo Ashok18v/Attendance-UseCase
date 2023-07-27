@@ -1,0 +1,6 @@
+Prompt :- Generate the csv file for the employees to calculate the total working hours by considering the total working days with total days in june month,,,
+,,,
+Employee Name,        Employee ID,Total Working Days,Total Working Hours
+John Brown,EMP001,20,180hrs
+Johnson Mike,EMP002,21,189hrs
+Tom Charleys,EMP003,21,189hrs

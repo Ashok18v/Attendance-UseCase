@@ -1,0 +1,7 @@
+"Prompt :- Generate the csv file for the employees who took leave and mention their leave type, leave date, leave status",,,,,
+,,,,,
+Employee Name,Leave Type,Start Date,End Date,Leave Duration,Leave Status
+John Brown ,Sick Leave,6/16/2023,6/16/2023,Full Day,Approved
+John Brown ,Causal Leave,6/18/2023,6/18/2023,Full Day,Approved
+Tom Charleys ,Causal Leave,6/23/2023,6/23/2023,Full Day,Approved
+Johnson Mike,Sick Leave,6/24/2023,6/24/2023,Full Day,Approved
